@@ -11,7 +11,7 @@ Python / R / Git / Jupyter Notebook / Tidyverse / Scikit-Learn / Numpy / Plotly 
 ### What I've been up to...
 
 - 🔭 I’m currently working on an NLP dashboard [here](https://imdb-text-analysis.herokuapp.com/).
-- 🌱 I’m currently [analyzing IMDB movie reviews](https://github.com/aromatic-toast/IMDB_Sentiment_Analysis) to learn NLP tools like Top2Vec for topic modelling and Doc2Vec for text feature extraction. 
+- 🌱 I’m currently learning NLP tools like Top2Vec for topic modelling and Doc2Vec for text feature extraction by [analyzing IMDB movie reviews](https://github.com/aromatic-toast/IMDB_Sentiment_Analysis).
 - 📫 How to reach me: lesley.miller@alumni.ubc.ca 
 
 
