@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Lesley!
-### I'm a Data Scientist. 
+### I'm a Problem Solver! 
 ![I'm a Data Scientist. ](img/workstation.png)
 
 ### About Me
