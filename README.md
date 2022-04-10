@@ -3,10 +3,11 @@
 ![I'm a Data Scientist. ](img/workstation.png)
 
 ### About Me
-I live in beautiful Vancouver, British Columbia in Canada. I'm a Data Scientist, runner, cyclist, skier and outdoor nature lover. My faourite Python package right now is [kepler.gl](https://kepler.gl/) because I love mapping spatial data. My favourite R package right now is a [Tidyverse](https://www.tidyverse.org/) package called [googlesheets4](https://github.com/tidyverse/googlesheets4). It makes working with google spreads in a programmatic way a breeze. My favourite thing about being a data scientist is that moment when you are waiting for your analysis to finish running and see your results for the first time. It's like presents under the tree on Christmas morning! 
+I live in beautiful Vancouver, British Columbia in Canada. I'm a Software Developer, Data Scientist, runner, cyclist, skier and outdoor nature lover. I’m passionate about writing modular human readable code and I’m a strong proponent of the MVP (Minimum Viable Product), continual iteration and improvement. I love building software that makes someone’s work life just a bit easier and also think that clear, well-written technical documentation is the best thing since PB&J.
 
-### Skills
-Python / R / Git / Jupyter Notebook / Tidyverse / Scikit-Learn / Numpy / Plotly Dash / Pandas / Gensim / NLTK
+
+### Tools & Skills
+Python / R / SQL/ Git / GitHub / Bash/ Shell scripting / Unix/Linux / CSS/HTML / HPC / GCP / AWS / Docker / Docker Compose / Numpy / Pandas / SciPy / Scikit-Learn / Jupyter Notebook / Plotly / Plotly Dash / Gensim / NLTK / SpaCy / Tidyverse / Python package development / Natural Language Processing / Computer Vision / Unit Testing / Data Wrangling / Data Visualization / Supervised & Unsupervised Machine Learning / Statistics
 
 ### What I've been up to...
 
